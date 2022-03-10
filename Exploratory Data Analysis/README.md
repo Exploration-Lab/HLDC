@@ -9,3 +9,6 @@ This script explores the linguistic features like number of words, sentences, un
 
 ## LexicalDiversity-TFIDF.ipynb
 This script tried to find evidences of lexical diversity across geographical regions by using TFIDF where one document corresponds to all documents of a district.
+
+## sample_read_zipped.py
+This is a sample script to read the released data directly in the zip format without unzipping it also gives an idea about the internal structure of the released data.
