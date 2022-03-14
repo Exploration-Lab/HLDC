@@ -1,3 +1,8 @@
+
+## HLDC Data Stats
+
+![data_stats](data_stats.png "data_stats")
+
 ## Running Order
 1. [OCR](./ocr.py)
 2. [NER_and_document_division.ipynb](./NER_and_Document_division.ipynb)
