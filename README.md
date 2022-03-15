@@ -15,3 +15,25 @@ Each folder contains the different components of the paper namely collection, cl
 
 The HLDC dataset and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can share and adapt our dataset if they give credit to us and do not use our dataset for any commercial purposes.
 
+
+## Citation
+
+```
+@inproceedings{arnav-etal-2022-HLDC,
+    title = "HLDC: Hindi Legal Documents Corpus",
+    author = "Kapoor, Arnav and 
+              Dhawan, Mudit and
+              Goel, Anmol and 
+              Arjun, T.H and 
+              Agrawal, Vibhu and 
+              Agrawal, Amul and
+              Bhattacharya, Arnab and 
+              Kumaraguru, Ponnurangam and
+              Modi, Ashutosh",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2022",
+    year = "2022",
+    publisher = "Association for Computational Linguistics",
+    abstract = "Many populous countries including India are burdened with a considerable backlog of legal cases. Development of automated systems that could process legal documents and augment legal practitioners can mitigate this. However, there is a dearth of high-quality corpora that is needed to develop such data-driven systems. The problem gets even more pronounced in the case of low resource languages such as Hindi. In this resource paper, we introduce the Hindi Legal Documents Corpus (HLDC), a corpus of more than 900K legal documents in Hindi. The documents are cleaned and structured to enable the development of downstream applications. Further, as a use-case for the corpus, we introduce the task of Bail Prediction. We experiment with a battery of models and propose a multi-task learning (MTL) based model for the same. MTL models use summarization as an auxiliary task along with bail prediction as the main task. Results on different models are indicative of the need for further research in this area. 
+",
+}
+```
