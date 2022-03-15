@@ -19,7 +19,7 @@ The HLDC dataset and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users 
 ## Citation
 
 ```
-@inproceedings{arnav-etal-2022-HLDC,
+@inproceedings{kapoor-etal-2022-HLDC,
     title = "HLDC: Hindi Legal Documents Corpus",
     author = "Kapoor, Arnav and 
               Dhawan, Mudit and
