@@ -2,7 +2,7 @@
 
 * We create a Hindi Legal Documents Corpus (HLDC) of 912,568  documents. These documents are cleaned and structured to make them usable for downstream NLP/IR applications. Moreover, this is a growing corpus as we continue to add more legal documents to HLDC. We release the corpus and model implementation code in this repo
 
-* As a use-case for applicability of the corpus for developing legal systems, we propose the task of \emph{Bail Prediction}.
+* As a use-case for applicability of the corpus for developing legal systems, we propose the task of Bail Prediction.
 
 * For the task of bail prediction, we experiment with a variety of deep learning models. We propose a multi-task learning model based on transformer architecture. The proposed model uses extractive summarization as an auxiliary task and bail prediction as the main task.   
 
