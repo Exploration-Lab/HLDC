@@ -14,6 +14,9 @@
 ### OCR
 - Uses tesseract to convert raw PDFs downloaded in the data collection step to txt files. 
 - Uses intermediatary Ghostscript to convert pdf to tiff files.
+``` python3 ocr.py``` 
+``` Update the file paths in the code to reflect the folder with raw pdfs and where you wish to save the results.```
+
 ### NER_and_Document_division
 - Removes Invalid Documents.
 - Divides valid OCRed bail documents into `header`, `body` and `result` sections.
