@@ -148,7 +148,6 @@ for i in regex_arrays:
 # In[ ]:
 
 
-terms_to_look_for
 
 
 # In[ ]:
@@ -399,26 +398,6 @@ def work(district):
   print(f"Exit: {district}")
 
 
-# In[ ]:
-
-
-work("bagpat")
-
-
-# In[ ]:
-
-
-total_count
-
-
-# In[ ]:
-
-
-data.keys()
-
-
-# In[ ]:
-
 
 import numpy as np
 indexes = []
@@ -448,70 +427,6 @@ indexes
 # In[ ]:
 
 
-data[court]['processed'].keys()
-
-
-# In[ ]:
-
-
-data[court]['processed'][indexes[50]]
-
-
-# In[ ]:
-
-
-len(indexes)
-
-
-# In[ ]:
-
-
-check
-
-
-# In[ ]:
-
-
-print(data[court]['processed'][check]['result'])
-
-
-# In[ ]:
-
-
-check = indexes[3028]
-print(data[court]['processed'][check]['body'])
-
-
-# In[ ]:
-
-
-data[court]['processed'][check]['labels']
-
-
-# In[ ]:
-
-
-for i in data[court]['processed'][check]['body']:
-  j = get_sentences_of_para(i)
-  for k in j:
-    print(k)
-
-
-# In[ ]:
-
-
-for i in data[court]['processed'][check]['body']:
-  print(i)
-
-
-# In[ ]:
-
-
-data[court]['processed'][check]
-
-
-# In[ ]:
-
 
 def work_count(district):
   print(f"Enter: {district}")
@@ -538,11 +453,6 @@ def work_count(district):
 
 # In[ ]:
 
-
-work_count('ghaziabad')
-
-
-# In[ ]:
 
 
 from copy import deepcopy
