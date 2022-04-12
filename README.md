@@ -18,6 +18,7 @@ Please note the dataset is only to be used for research purposes.
 
 The HLDC dataset and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can share and adapt our dataset if they give credit to us and do not use our dataset for any commercial purposes.
 
+### Paper: https://arxiv.org/abs/2204.00806 
 
 ## Citation
 
