@@ -9,7 +9,9 @@
 
 Each folder contains the different components of the paper namely collection, cleaning and information extraction, corpus analysis, summarisation models and bail prediction models. There are respective README's in each of the component where necessary to run the requisite code. 
 ## Dataset
-Please fill the following [form](https://docs.google.com/forms/d/e/1FAIpQLSf6c8fuWWB-VWf4Yv5YPd9dkfE7bnX8y7hDt0DKCKfW_ocDBQ/viewform) to get access to the HLDC dataset.
+The dataset and leaderboard can be obtained on [Hugging Face](https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard) 
+
+
 Please note the dataset is only to be used for research purposes.
 
 ## License
